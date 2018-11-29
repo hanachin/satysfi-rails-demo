@@ -1,6 +1,8 @@
 GEM
   remote: https://rubygems.org/
   specs:
+    SATySFi-rails (0.1.0)
+      rails (~> 5.2.1, >= 5.2.1.1)
     actioncable (5.2.1.1)
       actionpack (= 5.2.1.1)
       nio4r (~> 2.0)
@@ -124,6 +126,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  SATySFi-rails
   byebug
   jbuilder (~> 2.5)
   rails (~> 5.2.1)
