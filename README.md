@@ -1,24 +1,9 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+[SATySFi-rails](https://rubygems.org/gems/SATySFi-rails) demo app.
 
-Things you may want to cover:
+[The SATySFi view template](https://github.com/hanachin/satysfi-rails-demo/blob/master/app/views/fizzbuzz/show.pdf.saty) is rendered as below:
 
-* Ruby version
+https://satysfi-rails-demo.herokuapp.com/fizzbuzz.pdf
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
