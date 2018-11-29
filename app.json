@@ -3,6 +3,7 @@
     "description": "SATySFi-rails gem demo app",
     "website": "https://satysfi-rails-demo.herokuapp.com/",
     "repository": "https://github.com/hanachin/satysfi-rails-demo",
+    "success_url": "/fizzbuzz.pdf",
     "keywords": ["SATySFi", "rails"],
     "env": {
         "RAILS_ENV": "production",
