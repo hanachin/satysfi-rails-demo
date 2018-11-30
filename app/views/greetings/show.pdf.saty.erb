@@ -1,0 +1,5 @@
+@require: standalone
+
+let-block ctx +hi = line-break true true ctx (read-inline ctx {<%= "Hello, #{@name}!" %>}) in
+
+standalone '<+hi;>
